@@ -35,6 +35,12 @@ Using Microsoft Excel, i was able to use the clean the data that was provided to
 With the Data loaded to PowerBi, i made some analysis to find some interesting metrics as to what were the key insights gotten for the use of Diversity and Inclusion needed by PWC Human Resource Department. 
 With the aid of some of the visuals i created, i was able to highlights some of the necessary Key Performance Indicators that were needed to help and assist the department to make decisions. 
 
+![](Dashboard1.png)
+
+![](Dashboard2.png)
+
+![](Dashboard3.png)
+
 ## 6.0 - Insights
 There are some Major and Notabe Insights gotten from this analysis, they include the following; 
 6.1 - *It showed that there were a total number of 500 Employees, "295 Males, 205 Females*
